@@ -12,7 +12,7 @@ Repository | Author | Comment
 -----------|--------|--------
 [kunsi/bundlewrap](https://git.franzi.business/kunsi/bundlewrap/) | [kunsi](https://franzi.business/) | Contains lots of bundles, for example matrix (including bridges), pretalx, mail server.
 
-# Bundles
+## Bundles
 
 These lists contain only bundles. There's a list for bundle collections (for example, if you have a git repository for your `bundles` directory), after that there's a list of single bundles (ordered alphabetically).
 
