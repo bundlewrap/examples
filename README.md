@@ -10,7 +10,7 @@ If you maintain a public repo, feel free to open a pull request and add your URL
 
 Repository | Author | Comment
 -----------|--------|--------
-[kunsi/bundlewrap](https://git.kunsmann.eu/kunsi/bundlewrap/) | [kunsi](https://franzi.business/) | Contains lots of bundles, for example matrix (including bridges), pretalx, mail server.
+[kunsi/bundlewrap](https://git.franzi.business/kunsi/bundlewrap/) | [kunsi](https://franzi.business/) | Contains lots of bundles, for example matrix (including bridges), pretalx, mail server.
 
 # Bundles
 
