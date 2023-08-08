@@ -11,7 +11,7 @@ If you maintain a public repo, feel free to open a pull request and add your URL
 Repository | Author | Comment
 -----------|--------|--------
 [kunsi/bundlewrap](https://git.franzi.business/kunsi/bundlewrap/) | [kunsi](https://franzi.business/) | Contains lots of bundles, for example matrix (including bridges), pretalx, mail server.
-[CroneKorkN/bundlewrap](https://git.sublimity.de/cronekorkn/bundlewrap) | CroneKorkN | Several bundles for Debian.
+[CroneKorkN/bundlewrap](https://git.sublimity.de/cronekorkn/bundlewrap) | [CroneKorkN](https://github.com/CroneKorkN) | Several bundles for Debian.
 
 ## Bundles
 
