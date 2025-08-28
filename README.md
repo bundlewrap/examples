@@ -12,6 +12,7 @@ Repository | Author | Comment
 -----------|--------|--------
 [kunsi/bundlewrap](https://git.franzi.business/kunsi/bundlewrap/) | [kunsi](https://franzi.business/) | Contains lots of bundles, for example matrix (including bridges), pretalx, mail server.
 [CroneKorkN/bundlewrap](https://git.sublimity.de/cronekorkn/bundlewrap) | [CroneKorkN](https://github.com/CroneKorkN) | Several bundles for Debian.
+[clerie/bwfiles](https://git.clerie.de/clerie/bwfiles) | [clerie](https://clerie.de) | Backup and monitoring for uberspace accounts
 
 ## Bundles
 
